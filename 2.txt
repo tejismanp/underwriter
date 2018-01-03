@@ -1,8 +1,0 @@
-Gender: male
-DOB : 10/0X/19XX
-Product Type: Permanent
-Face Amount: 250,000
-On following medications:
-1. Warfarin (Blood thinner) - diagnosed 20XX - Takes 3.5 to 4mg daily 
-2. Atorvastatin (Cholesterol) - diagnosed 20XX - Takes 80 mg daily 
-3. Digoxin (Heart) - Diagnosed 20XX - Takes .125 mg daily

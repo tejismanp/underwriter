@@ -20,7 +20,8 @@ Install Anaconda & its packages and directly run program
 
 2nd method =>
 Install Jupyter notebook: > pip3 install --upgrade pip
-						  > pip3 install jupyter	
+			  > pip3 install jupyter	
 
 Run Jupyter             : > Jupyter Notebook
+
 Run Program in Jupyter  : (Shift-Enter) 						  

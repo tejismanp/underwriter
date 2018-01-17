@@ -1,8 +1,1 @@
-Date,Year,DOB,Gender,Product Type,Face Amount
--1,-1,-1,-1,-1,-1,-1,-1
-"APR 20, 1977",1977,41,FEMALE,Product Type: Permanent,"Face Amount: 50,000",-1,-1
-10/0X/19XX,-1,-1,male,-1,"Face Amount: 250,000",-1,-1
-XX/31/XX,-1,-1,Male,-1,-1,-1,-1
-XX/XX/19XX,-1,-1,Male,-1,-1,-1,-1
--1,-1,-1,Male,-1,-1,-1,-1
-"DEC 20, 1996",1996,22,Female,Product Type: Term,"Face Amount: $500,XXX",-1,-1
+Date,Year,DOB,Gender,Product Type,Face Amount
